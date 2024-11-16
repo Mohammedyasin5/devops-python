@@ -1,0 +1,9 @@
+types of data types:
+
+1. numeric data type: integer (x=123) and float (c=1.23)
+2. string data type: eg: a='aditya', b = "shyam", c = ''' this is yasin '''
+3. boolean data type: eg: is_valid= true and has_permissions = false
+4. list data type: collection of items or data type.eg: a = [1,2,3,'yasin',true] ---- muteable and it can be changeable.
+5. tuple : immuteable (cannot be changed) eg: B= (1,2,3,'yasin')
+6. dictionaries: stored in key-value pairs eg: my_dict= {'name':'john','age':30}
+7. set: duplicate not allowed eg: my_set = {1,2,2,3,3,4,4,5} it will show only {1,2,3,4,5}
