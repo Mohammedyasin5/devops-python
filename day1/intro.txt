@@ -1,0 +1,21 @@
+intro:
+
+.created in 1991 by guido van rossum.
+.versatile language
+.dynamically typed language
+
+key features:
+
+. easy to read and write
+. multipurpose
+. interpreted language
+. rich standard library
+. platform independent
+. large community
+
+python in devops:
+
+. scripting & automation for backup or etc..
+. configuration management tools like ansible worked with python.
+. ci/cd - run python script in pipeline script using sh command
+. monitoring and logging - using psutil module
